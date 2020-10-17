@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.130,D:\univer\delphi\Unit1.dfm=D:\univer\сем_2\course_tst2\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.433,=D:\univer\сем_2\course_tst2\Graphic.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.360,=D:\univer\delphi\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.888,D:\univer\сем_2\course_tst2\AddForm.dfm=D:\univer\сем_2\course_tst2\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.442,D:\univer\сем_2\course_tst2\MainUnit.pas=D:\univer\сем_2\course_tst2\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.888,D:\univer\сем_2\course_tst2\AddForm.pas=D:\univer\сем_2\course_tst2\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.384,D:\univer\delphi\Project10.dproj=D:\univer\delphi\course_tst.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.128,=D:\univer\сем_2\course_tst2\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.959,D:\univer\сем_2\course_tst2\course_tst.dproj=D:\univer\сем_2\course_tst2\TableTable.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.130,D:\univer\delphi\Unit1.pas=D:\univer\сем_2\course_tst2\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.442,D:\univer\сем_2\course_tst2\MainUnit.dfm=D:\univer\сем_2\course_tst2\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.945,D:\univer\delphi\course_tst.dproj=D:\univer\сем_2\course_tst2\course_tst.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
